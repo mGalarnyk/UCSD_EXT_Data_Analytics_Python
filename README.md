@@ -11,7 +11,9 @@ Lecture Number | Topic | Content Folder | Video
 5 | Matplotlib (Plotting) + Logistic Regression (screen sharing) |  |  
 6 | Train Test Split + Logistic Regression + Decision Trees (screen sharing) |  |  
 7 | Metrics + Random Forests (screen sharing) |  |  
-8 |  |  |  
+8 | Clustering |  |  
+9 | Dimensionality Reduction: Principal Component Analysis |  |
+9 | Topics of Interest: Things We Dont have Time to Cover  |  |
 
 ## Key Topics in the Course
 * Installing Python/Jupyter/IPython on Windows and Mac

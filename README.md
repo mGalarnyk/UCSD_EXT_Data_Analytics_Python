@@ -1,6 +1,12 @@
 # UCSD_EXT_Data_Analytics_Python
 Legally allowable public portion of the UCSD Extension course: [Data Analytics Using Python (CSE-41204)](https://extension.ucsd.edu/courses-and-programs/data-analytics-using-python). 
 
+Lecture Number | Topic | Content Folder | Videos
+--- | --- | --- | ---
+1 | Introduction | None Yet | [Introduction](https://youtu.be/9Reee_E_rmI)
+1 | Python Basics Part 1 | None Yet | Coming Soon
+
+
 ## Key Topics
 * Installing Python/Jupyter/IPython on Windows and Mac
 * Python Basics (variables, strings, simple math, conditional logic, for loops, lists, tuples, dictionaries, etc.)

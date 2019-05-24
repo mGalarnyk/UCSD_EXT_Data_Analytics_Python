@@ -3,9 +3,9 @@ Legally allowable public portion of the UCSD Extension course: [Data Analytics U
 
 Lecture Number | Topic | Content Folder | Video
 --- | --- | --- | ---
-1 | Introduction (powerpoint) | None Yet | [Introduction](https://youtu.be/9Reee_E_rmI)
-1 | Installation and Python Basics (powerpoint) | None Yet | [Jupyter Notebooks, Strings, Simple Math, and Lists](https://youtu.be/unqsJo7Xzh0)
-2 | Tuples, Dictionaries, and Reviewing Exercises (screen sharing) | None Yet | [Tuples, Dictionaries, and Reviewing Exercises](https://youtu.be/mR14pCb_TlY)
+1 | Introduction (powerpoint) | [Session 1](https://github.com/mGalarnyk/UCSD_EXT_Data_Analytics_Python/tree/master/Session_1) | [Introduction](https://youtu.be/9Reee_E_rmI)
+1 | Installation and Python Basics (powerpoint) | [Session 1](https://github.com/mGalarnyk/UCSD_EXT_Data_Analytics_Python/tree/master/Session_1) | [Jupyter Notebooks, Strings, Simple Math, and Lists](https://youtu.be/unqsJo7Xzh0)
+2 | Tuples, Dictionaries, and Reviewing Exercises (screen sharing) | [Session 2](https://github.com/mGalarnyk/UCSD_EXT_Data_Analytics_Python/tree/master/Session_2) | [Tuples, Dictionaries, and Reviewing Exercises](https://youtu.be/mR14pCb_TlY)
 3 | Pandas Part 1: Reading and Writing Files, Filtering and Sorting Data (screen sharing) |  | 
 4 | Pandas Part 2: Handling Missing Values, Combining Dataframes, GroupBy (screen sharing) |  | 
 5 | Matplotlib (Plotting) + Logistic Regression (screen sharing) |  |  

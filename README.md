@@ -1,4 +1,4 @@
-# UCSD_EXT_Data_Analytics_Python
+# UCSD Extension: Data Analytics using Python 
 Legally allowable public portion of the UCSD Extension course: [Data Analytics Using Python (CSE-41204)](https://extension.ucsd.edu/courses-and-programs/data-analytics-using-python). 
 
 Lecture Number | Topic | Content Folder | Video
